@@ -1,12 +1,12 @@
 # Pandaaas - Pandas as a service, restful api
 
-## Development
+## Development
 ```
 yarn install
 node .
 ```
 
-## Usage
+## Usage
 `/{width}/{height}/?format={imageFormat}`
 
 
